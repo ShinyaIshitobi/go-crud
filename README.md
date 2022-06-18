@@ -1,8 +1,6 @@
 # golangでAPIのお勉強
----
 
 ## 概要
----
 `waters`がDBの役割をしていて, httpメソッドで色々できる. (json)
 初期で`waters`にはirohasuとevianのみが入っている.
 
@@ -16,7 +14,6 @@ curl -X POST -d '{"name":"CrystalGeyser","amount":500,"color":"blue","company": 
 
 
 ### TODO
----
 * 一回一回初期化されちゃうのでRDB化したりしないとダメ
 * RDBとの連携の勉強
 * パッケージ化についての理解
@@ -24,7 +21,6 @@ curl -X POST -d '{"name":"CrystalGeyser","amount":500,"color":"blue","company": 
 
 
 ## 参考
----
 日本語なさすぎたけどgolangめっちゃ書きやすくて好きになった.
 https://qiita.com/roothybrid7/items/34578037d883c9a99ca8
 https://pkg.go.dev/github.com/gorilla/mux
