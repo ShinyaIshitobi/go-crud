@@ -26,6 +26,6 @@ curl -X POST -d '{"name":"CrystalGeyser","amount":500,"color":"blue","company": 
 ## 参考
 ---
 日本語なさすぎたけどgolangめっちゃ書きやすくて好きになった.
-[https://qiita.com/roothybrid7/items/34578037d883c9a99ca8]
-[https://pkg.go.dev/github.com/gorilla/mux]
-[https://pkg.go.dev/net/http]
+https://qiita.com/roothybrid7/items/34578037d883c9a99ca8
+https://pkg.go.dev/github.com/gorilla/mux
+https://pkg.go.dev/net/http
